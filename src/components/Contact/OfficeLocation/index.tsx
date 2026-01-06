@@ -19,7 +19,7 @@ const Location = () => {
                         <p className="sm:text-2xl text-xl text-secondary dark:text-darktext font-normal max-w-266 leading-10">4292 Mapleview Drive Greenfield Zip code 38230</p>
                     </div>
                     <div className="col-span-3">
-                        <Link href="mailto:headoffice@symposium.com" className="sm:text-2xl text-xl text-secondary dark:text-SereneSky font-medium underline hover:dark:text-white hover:text-RegalBlue">headoffice@symposium.com</Link>
+                        <Link href="mailto:headoffice@build_zone_it.com" className="sm:text-2xl text-xl text-secondary dark:text-SereneSky font-medium underline hover:dark:text-white hover:text-RegalBlue">headoffice@build_zone_it.com</Link>
                         <Link href="tel:731-621-5503" className="sm:text-2xl text-xl text-secondary dark:text-primary flex items-center gap-2 hover:text-opacity-100 w-fit hover:dark:text-white"><span className="text-primary">Call</span>731-621-5503</Link>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ const Location = () => {
                         <p className="sm:text-2xl text-xl text-secondary dark:text-darktext font-normal max-w-266 leading-10">3502 Marcus Street Geraldine Zip code 35974</p>
                     </div>
                     <div className="col-span-3">
-                        <Link href="mailto:Office@symposium.com" className="sm:text-2xl text-xl text-secondary dark:text-SereneSky font-medium underline hover:dark:text-white hover:text-RegalBlue">Office@symposium.com</Link>
+                        <Link href="mailto:Office@build_zone_it.com" className="sm:text-2xl text-xl text-secondary dark:text-SereneSky font-medium underline hover:dark:text-white hover:text-RegalBlue">Office@build_zone_it.com</Link>
                         <Link href="tel:731-235-7993" className="sm:text-2xl text-secondary dark:text-primary text-xl flex items-center gap-2 w-fit hover:dark:text-white"><span className="text-primary">Call</span>731-235-7993</Link>
                     </div>
                 </div>

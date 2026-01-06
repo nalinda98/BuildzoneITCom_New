@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-// const basePath = "/symposium-nextjs";
+// const basePath = "/build_zone_it-nextjs";
 const basePath = "";
 const nextConfig = {
 	// build static export output

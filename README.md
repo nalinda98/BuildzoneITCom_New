@@ -1,16 +1,16 @@
-# symposium-nextjs
+# build_zone_it-nextjs
 #### Preview
 
- - [Demo](https://themewagon.github.io/symposium-nextjs/)
+ - [Demo](https://themewagon.github.io/build_zone_it-nextjs/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/symposium-nextjs/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/build_zone_it-nextjs/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/symposium-nextjs.git
+git clone https://github.com/themewagon/build_zone_it-nextjs.git
 ```
 2. Install Dependencies
 ```
