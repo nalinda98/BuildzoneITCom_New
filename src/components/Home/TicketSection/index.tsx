@@ -8,7 +8,7 @@ const TicketSection = () => {
             <section className="dark:bg-darkmode pt-0">
                 <div className="container">
                     <div className="bg-primary relative md:mx-auto mx-0 overflow-hidden py-0 rounded-22 lg:-mb-48 dark:lg:-mb-48 md:mt-20 mt-10">
-                        <div className="flex flex-wrap items-center justify-between md:p-20 p-5">
+                        {/* <div className="flex flex-wrap items-center justify-between md:p-20 p-5">
                             <div className="md:w-2/2 w-full absolute top-0 -left-1 md:block hidden">
                                 <Image
                                     src="/images/ticket-section/ticket.png"
@@ -34,7 +34,7 @@ const TicketSection = () => {
                                     </span>
                                 </Link>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>

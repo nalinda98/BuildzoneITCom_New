@@ -6,7 +6,7 @@ import HeroSub from "@/components/SharedComponent/HeroSub";
 import { Metadata } from "next";
 import TicketSection from "@/components/Home/TicketSection";
 export const metadata: Metadata = {
-    title: "Contact | BuildZone IT",
+  title: "Contact | BuildZone IT",
 };
 
 const page = () => {
@@ -18,13 +18,14 @@ const page = () => {
     <>
       <HeroSub
         title="Contact Us"
-        description="Discover a wealth of insightful materials meticulously crafted to provide you with a comprehensive understanding of the latest trends."
+        description="Connect with us to transform your vision into reality. Reach out htmlFor personalized consultations, inquiries, or collaborations.
+Let's bring your ideas to life together."
         breadcrumbLinks={breadcrumbLinks}
       />
       <ContactInfo />
       <ContactForm />
       <Location />
-      <TicketSection/>
+      <TicketSection />
     </>
   );
 };

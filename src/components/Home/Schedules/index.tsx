@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { conferences, intermissions } from "../../../app/api/data";
 
-const Schedules = () => {
+const About = () => {
   return (
     <>
       <div className="flex items-center flex-wrap  w-full border border-solid border-border dark:border-dark_border md:px-14 px-6 md:mt-14 mt-6 rounded-22">
@@ -121,4 +121,4 @@ const Schedules = () => {
   );
 };
 
-export default Schedules;
+export default About;

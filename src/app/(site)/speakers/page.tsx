@@ -9,20 +9,21 @@ export const metadata: Metadata = {
 };
 
 const page = () => {
-    const breadcrumbLinks = [
-        { href: "/", text: "Home" },
-        { href: "/speakers", text: "Speakers" },
-      ];
+  const breadcrumbLinks = [
+    { href: "/", text: "Home" },
+    { href: "/services", text: "Services" },
+  ];
   return (
     <>
       <HeroSub
-        title="Our Visionary Speakers"
-        description="Discover a wealth of insightful materials meticulously crafted to provide you with a comprehensive."
+        title="Our Services"
+        description="Elevate your digital presence with tailored websites, mobile apps, and secure hosting.
+Our expertise extends to HR solutions, robust security, and personalized support for unparalleled online excellence."
         breadcrumbLinks={breadcrumbLinks}
       />
       <WorkSpeakers showTitle={false} />
-      <Testimonials/>
-      <TicketSection/>
+     
+      <TicketSection />
     </>
   );
 };

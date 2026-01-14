@@ -27,17 +27,15 @@ const Footer: FC = () => {
                                 <Link href="/">Home</Link>
                             </li>
                             <li className="text-PaleCerulean sm:text-xl text-lg font-normal transition-all duration-0.4s hover:text-primary">
-                                <Link href="/">Speakers</Link>
+                                <Link href="/services">Services</Link>
                             </li>
                             <li className="text-PaleCerulean sm:text-xl text-lg font-normal transition-all duration-0.4s hover:text-primary">
-                                <Link href="/">Schedule</Link>
+                                <Link href="/about">About Us</Link>
                             </li>
                             <li className="text-PaleCerulean sm:text-xl text-lg font-normal transition-all duration-0.4s hover:text-primary">
-                                <Link href="/">About</Link>
+                                <Link href="/contact">Contact</Link>
                             </li>
-                            <li className="text-PaleCerulean sm:text-xl text-lg font-normal transition-all duration-0.4s hover:text-primary">
-                                <Link href="/">Sponsors</Link>
-                            </li>
+                           
                         </ul>
                     </div>
                     <div>

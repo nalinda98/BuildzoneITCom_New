@@ -10,7 +10,7 @@ const ContactForm = () => {
                 <div className="container mx-auto lg:max-w-screen-xl md:max-w-screen-md">
                     <div className="grid md:grid-cols-12 grid-cols-1 gap-8">
                         <div className="col-span-6">
-                            <h2 className="max-w-72 text-[40px] leading-[3.4rem] font-bold mb-9 text-secondary">Get Online Consultation</h2>
+                            <h2 className="max-w-72 text-[40px] leading-[3.4rem] font-bold mb-9 text-secondary">Contact Us</h2>
                             <form className="flex flex-wrap w-full m-auto justify-between">
                                 <div className="sm:flex gap-3 w-full">
                                     <div className="mx-0 my-2.5 flex-1">
@@ -42,15 +42,13 @@ const ContactForm = () => {
                                     <div className="mx-0 my-2.5 flex-1">
                                         <label htmlFor="Specialist" className="pb-3 inline-block text-base text-SlateBlueText">Specialist*</label>
                                         <select id="Specialist" className="w-full text-base px-4 py-2.5 text-SlateBlueText rounded-lg border-border dark:text-white border-solid dark:bg-darkmode border transition-all duration-500 focus:border-primary dark:focus:border-primary dark:border-dark_border focus:border-solid focus:outline-0">
-                                            <option value="">Choose a specialist</option>
-                                            <option value="Baking &amp; Pastry">
-                                                Choose a specialist
-                                            </option>
-                                            <option value="Exotic Cuisine">Exotic Cuisine</option>
-                                            <option value="French Desserts">French Desserts</option>
-                                            <option value="Seafood &amp; Wine">
-                                                Choose a specialist
-                                            </option>
+                                            <option value="">Choose a software category</option>
+                                            <option value="Website">Website</option>
+                                            <option value="Mobile App">Mobile App</option>
+                                            <option value="POS System">POS System</option>
+                                            <option value="Ecommerce Webapp">Ecommerce Webapp</option>
+                                            <option value="ERP System">ERP System</option>
+                                            <option value="Other Software Solution">Other Software Solution</option>
                                         </select>
                                     </div>
                                 </div>
@@ -74,7 +72,7 @@ const ContactForm = () => {
                                 </div>
                                 <div className="mx-0 my-2.5 w-full">
                                     <Link href="#" className="mt-4 btn btn-1 hover-filled-slide-down overflow-hidden rounded-lg" type="submit">
-                                        <span>Make an appointment</span>
+                                        <span>Send Message</span>
                                     </Link>
                                 </div>
                             </form>
