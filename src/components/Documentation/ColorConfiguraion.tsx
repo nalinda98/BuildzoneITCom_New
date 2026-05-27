@@ -7,14 +7,14 @@ export const ColorConfiguration = () => {
                     <span className="text-SlateBlueText dark:text-opacity-80" >For any change in colors : src/utils/extendedConfig.ts</span></p>
                 <div className="py-4 px-5 rounded-md bg-black mt-8">
                     <p className="text-sm text-gray-400 flex flex-col gap-2">
-                        <span>primary: "#2F73F2",</span>
-                        <span>secondary: "#102C46",</span>
+                        <span>primary: "#00bcf2",</span>
+                        <span>secondary: "#001a49",</span>
                         <span>SereneSky: "#8FACC6",</span>
-                        <span>ElectricAqua: "#46C4FF",</span>
-                        <span>RegalBlue: "#13439B",</span>
+                        <span>ElectricAqua: "#00bcf2",</span>
+                        <span>RegalBlue: "#001a49",</span>
                         <span>IcyBreeze: "#EFFBFF",</span>
                         <span>Aquamarine: "#7DF9C2",</span>
-                        <span>MidnightNavyText: "#102D47",</span>
+                        <span>MidnightNavyText: "#001a49",</span>
                         <span>SlateBlueText : "#547593",</span>
                         <span>PaleSkyBlu: "#E0F7FF",</span>
                         <span>LightSkyBlue: "#B2D5EA",</span>
@@ -32,8 +32,8 @@ export const ColorConfiguration = () => {
                     </p>
                 <div className="py-4 px-5 rounded-md bg-black mt-8">
                     <p className="text-sm text-gray-400 flex flex-col gap-2">
-                        <span>primary: "#2F73F2",</span>
-                        <span>secondary: "#102C46",</span>
+                        <span>primary: "#00bcf2",</span>
+                        <span>secondary: "#001a49",</span>
                     </p>
                 </div>
             </div>

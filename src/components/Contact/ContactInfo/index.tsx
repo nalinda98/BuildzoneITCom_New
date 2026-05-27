@@ -27,7 +27,7 @@ const ContactInfo = () => {
                                             width="23"
                                             height="17"
                                             viewBox="0 0 23 17"
-                                            fill="#2F73F2"
+                                            fill="#00bcf2"
                                             xmlns="http://www.w3.org/2000/svg"
                                             className="group-hover:fill-secondary group-hover:dark:fill-white"
                                         >
@@ -59,7 +59,7 @@ const ContactInfo = () => {
                                             width="23"
                                             height="17"
                                             viewBox="0 0 23 17"
-                                            fill="#2F73F2"
+                                            fill="#00bcf2"
                                             xmlns="http://www.w3.org/2000/svg"
                                             className="group-hover:fill-secondary group-hover:dark:fill-white"
                                         >
